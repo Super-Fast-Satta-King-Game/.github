@@ -27,7 +27,7 @@ When you first load the game, you'll see:
 
 ### 2. Watch the Timer
 
-- The game runs on a 30-second countdown timer
+- The [Super fast satta king game](https://sites.google.com/view/super-fast-satta-king-game/) runs on a 30-second countdown timer
 - As time decreases, the timer changes color and beats faster:
   - Blue (22-30 seconds)
   - Green (14-21 seconds)
